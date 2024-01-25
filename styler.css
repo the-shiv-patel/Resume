@@ -2,7 +2,16 @@ body{
     background-color:#F9EFDB;
     color:#638889 ;
 }
+
 .restofthings{
-    background-color:#F9EFDB;
+    padding: 8px;
     color:#9DBC98;
+}
+.center{
+    margin-left: 40%;
+    margin-right: 25%;
+}
+h1{
+    margin-left: 20%;
+    margin-right: 25%;  
 }
